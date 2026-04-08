@@ -3,7 +3,7 @@ body {
 }
 
 .stars {
-  display: flex;
+  display: inline-flex;
 }
 
 .stars__star {
