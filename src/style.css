@@ -4,6 +4,7 @@ body {
 
 .stars {
   display: inline-flex;
+  width: max-content
 }
 
 .stars__star {
