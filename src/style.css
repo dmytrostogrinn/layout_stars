@@ -6,6 +6,10 @@ body {
   display: inline-flex;
 }
 
+.stars:not(:last-child) {
+  margin-bottom: 16px;
+}
+
 .stars__star {
   width: 16px;
   height: 16px;
